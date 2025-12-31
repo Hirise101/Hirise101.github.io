@@ -8,5 +8,6 @@ redirect_from:
 ---
 
 Hi, I'm Hirise, you can call me another name - "wangdake"
+
 I build things for the web.
-Wait this one update.......
+Wait this lazy one to update.......
