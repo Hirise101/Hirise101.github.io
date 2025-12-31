@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is my profile page"
+title: "HIRISE"
 author_profile: true
 redirect_from: 
   - /about/
