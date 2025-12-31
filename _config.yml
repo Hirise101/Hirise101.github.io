@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "Nanjing China"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Graduate student"
+title                    : "HIRISE"
 title_separator          : "-"
 name                     : &name "Hirise"
 description              : &description "Nanjing University of Science and Technology"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Hirise"
-  pronouns         : "He" # example: "her"  
-  bio              : "Welcome to my website"
+  pronouns         : "" # example: "her"  
+  bio              : "Welcome to Hirise's website"
   location         : "Nanjing China"
   employer         : "NJUST"
   uri              : # URL
